@@ -32,7 +32,7 @@ A simple and interactive **Age Calculator** desktop application built using **Py
 
 ```bash
 git clone https://github.com/hackerbytez/Age_GUI_Calculator.git
-cd age-calculator-gui
+cd age_calculator-gui
 ````
 
 3. Run the application:
